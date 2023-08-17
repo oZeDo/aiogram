@@ -58,6 +58,9 @@ fast = [
 redis = [
     "redis~=4.6.0",
 ]
+motor = [
+    "motor~=2.5.1",
+]
 proxy = [
     "aiohttp-socks~=0.8.0",
 ]
